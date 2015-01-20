@@ -6,6 +6,9 @@ require 'csv'
 require 'date'
 require 'table_print'
 
+
+## http://www.glassgiant.com/ascii/
+
 ## http://bugs.openweathermap.org/projects/api/wiki/Weather_Data
 ## http://bugs.openweathermap.org/projects/api/wiki/Weather_Condition_Codes
 
